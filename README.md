@@ -1,4 +1,2 @@
 # class-work 
-hello
-there has been a change
-kiya hai change phirse 
+Practical labs are updated Here.
